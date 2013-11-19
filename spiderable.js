@@ -61,7 +61,7 @@ WebApp.connectHandlers.use(function (req, res, next) {
           "    console.log(out);" +
           "    phantom.exit();" +
           "  }" +
-          "}, 100);\n";
+          "}, 1000);\n";
 
     // Run phantomjs.
     //
