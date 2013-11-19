@@ -1,8 +1,8 @@
 {
-  "name": "spiderable-404",
-  "description": "Fork of Meteor's core spiderable package, with added support for status codes (like 404) and custom response headers.",
+  "name": "spiderable-404i",
+  "description": "Fork of Spidereable-404 spiderable package, compatibility with iron router.",
   "homepage": "https://github.com/wojas/spiderable-404",
-  "author": "Konrad Wojas",
+  "author": "Iván Guillén",
   "version": "0.6.6.1",
-  "git": "https://github.com/wojas/spiderable-404.git"
+  "git": "https://github.com/zeopix/spiderable-404.git"
 }
